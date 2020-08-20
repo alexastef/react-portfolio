@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,27 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+* {
+  box-sizing: border-box;
 }
+html, body, #app, #app>div {
+  height: 100%;
+
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  width: 100%;
+}
+.container {
+  width: 200%;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px
+}
+
+
+
