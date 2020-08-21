@@ -1,7 +1,7 @@
 import React from 'react';
 import NavBar from "../../components/NavBar";
+import Me from "../../img/me.png";
 import "./style.css";
-import waterImage from "../../img/water-rotated.jpg";
 
 function MainPage() {
     return (
@@ -10,10 +10,13 @@ function MainPage() {
             <NavBar />
 
         <div className="col-md">
-            <div class="mobile-image"><h4>ALEXA STEF</h4></div>
+            <div className="mobile-image"></div>
           <div className="intro-text alignCenter">
-            <h5>Brand Markerter & Web Developer. <br></br>
-            Bringing brands to life through design and interaction.</h5>
+            <h2 className="mobile-title">ALEXA STEF</h2><br></br>
+            <h3 className="intro">Brand Marketer & Web Developer. <br></br>
+            Bringing brands to life through design and interaction.</h3><br></br><br></br>
+            <button type="button" className="readMore btn btn-info" href="#">Read More</button>
+
           </div>
         </div>
         <div className="col-md">

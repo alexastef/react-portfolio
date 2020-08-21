@@ -4,7 +4,6 @@
     margin: 0;
     padding: 0;
     width: 100%;
-    margin-top: 10px;
 }
 
 a {
@@ -13,7 +12,7 @@ a {
 }
 
 .navbar-brand {
-    font-size: 30px;
+    font-size: 45px;
     letter-spacing: 8px;
     padding-left: 60px;
     padding-right: 60px;
@@ -21,7 +20,7 @@ a {
 }
 
 .nav-item {
-    font-size: 18px;
+    font-size: 21px;
     text-align: center;
     padding-left: 20px;
     padding-right: 20px;
@@ -33,18 +32,15 @@ a {
 }
 
 
-.navbar-toggler {
+/* .navbar-toggler {
     color: darkslategray;
     background-color: transparent;
     border: 1px solid;
-}
+} */
 
 @media (max-width: 767px) { 
     .navbar-brand {
         display: none;
     }
 
-    a {
-        color: #f5f5f5;
-    }
 }

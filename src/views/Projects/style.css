@@ -1,0 +1,21 @@
+html {
+    height: 100%;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.viewTwo {
+    width: 100%;
+    background-color: #d4f1f5;
+}
+
+.viewTitle {
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: center;
+    padding-top: 20px;
+
+        font-size: 45px;
+        letter-spacing: 8px;
+        color: darkslategray;
+
+}
