@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.1a3828c7.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.5ca849dd.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.5ca849dd.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.213b1880.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.213b1880.js.map",
+    "static/js/2.cd32a467.chunk.js": "/react-portfolio/static/js/2.cd32a467.chunk.js",
+    "static/js/2.cd32a467.chunk.js.map": "/react-portfolio/static/js/2.cd32a467.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.70329969db0aed2949d03eccb168d6a7.js": "/react-portfolio/precache-manifest.70329969db0aed2949d03eccb168d6a7.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/main.1a3828c7.chunk.css.map": "/react-portfolio/static/css/main.1a3828c7.chunk.css.map",
+    "static/js/2.cd32a467.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.cd32a467.chunk.js.LICENSE.txt",
+    "static/media/me.png": "/react-portfolio/static/media/me.2a6937c4.png",
+    "static/media/myself_waterbackground.png": "/react-portfolio/static/media/myself_waterbackground.5fc8d93f.png",
+    "static/media/style.css": "/react-portfolio/static/media/water.cf457501.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.213b1880.js",
+    "static/js/2.cd32a467.chunk.js",
+    "static/css/main.1a3828c7.chunk.css",
+    "static/js/main.5ca849dd.chunk.js"
+  ]
+}
