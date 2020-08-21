@@ -30,9 +30,11 @@ function NavBar() {
               ABOUT
             </a>
           </li>
+          <li className=" nav-item">
           <a className="navbar-brand" href="#">
             ALEXA STEF
           </a>
+          </li>
 
           <li className="nav-item navbar-text">
             <a className="nav-link" href="#">

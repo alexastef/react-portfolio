@@ -1,6 +1,8 @@
 html {
   height: 100%;
-  background-color: #ebf0f2;
+  background-color: #f5f5f5;
+  font-family: 'Montserrat', sans-serif;
+
 }
 
 .row {
@@ -26,19 +28,48 @@ html {
 }
 
 
-h4 {
-    display: none;
-    color: #f5f5f5;
+.mobile-title {
     font-family: 'Bebas Neue', sans-serif;
-    font-size: 40px;
-
+    font-size: 45px;
+    letter-spacing: 8px;
+    display: none;
 }
 
 .alignCenter {
     text-align: center;
     margin-top: 30vh;
-    padding: 10px;
+    padding: 10px;    
 }
+
+.intro {
+    font-family: 'Montserrat', sans-serif;
+    width: 80%;
+    margin: auto;
+}
+
+.readMore {
+    background-color: #f5f5f5;
+    color: darkslategrey;
+    border:  darkslategrey solid 1px;
+    border-radius: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.readMore:hover {
+    background-color: #338aad;
+    color: #f5f5f5;
+}
+
+/* .aboutButton {
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.aboutButton:hover {
+    color: #f5f5f5;
+    text-decoration: none;
+} */
+
 
 @media (max-width: 767px) { 
     .right-image {
@@ -53,27 +84,27 @@ h4 {
     .mobile-image {
         background-image: url("../../img/water-rotated.jpg");
         width: 100%;
-        height: 60vh;
+        height: 57vh;
         z-index: -1000;
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
         margin: 0;
-        margin-top: -290px;
+        margin-top: -293px;
     }
 
-    h4 {
+    .mobile-title {
         display: block;
-        text-align: center;
-        padding-top:325px;
     }
 
-    .intro-text {
-        font-size: larger;
-        /* margin-top: 30%; */
+    .alignCenter {
+        margin-top: 21vh;
+        margin-bottom: 20vh;
     }
+
  }
 
+ /* older iphones */
  @media (max-width: 320px) {
     .right-image {
         display: none;
@@ -91,15 +122,16 @@ h4 {
         margin-top: -290px;
     }
 
-    h4 {
+    /* h4 {
         display: block;
         text-align: center;
         padding-top:315px;
-    }
+    } */
 
     .intro-text {
-        height: 25vh;
-        margin-top: 30%;
+        /* height: 25vh; */
+        margin-top: 12vh;
+        margin-bottom: 10vh;
     }
 
  }
