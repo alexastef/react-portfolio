@@ -1,0 +1,31 @@
+.viewFive {
+    background-image: url("../../img/water.jpg");
+    width: 100%;
+    /* height: 100vh; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: -10vh;
+}
+
+#email-form {
+    background-color: #f5f5f5;
+    padding: 20px;
+    /* width: 80%; */
+}
+
+.formDiv {
+    width: 70vw;
+    background-color: #f5f5f5;
+    margin: auto;
+    padding-bottom: 20px;
+    margin-bottom: 10vh;
+    margin-top: 5vh;
+}
+
+#contactTitle {
+    padding-bottom: 2vh;
+}
+
+.contact-row {
+    margin-top: 10vh;
+}
