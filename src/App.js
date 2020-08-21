@@ -7,6 +7,7 @@ import Main from "./views/Main";
 import Projects from "./views/Projects";
 import Resume from "./views/Resume";
 import About from "./views/About";
+import Contact from "./views/Contact";
 
 
 
@@ -19,6 +20,7 @@ function App() {
           <Projects />
           <About />
           <Resume />
+          <Contact />
 
         </div>
     </div>
