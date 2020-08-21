@@ -1,0 +1,18 @@
+.about-left {
+    background-color: #338aad;
+    text-align: center;
+}
+
+.about-photo {
+    width: 65vh;
+    margin-top: 20vh;
+    margin-bottom: 20vh;
+}
+
+#aboutTitle {
+    padding-bottom: 2vh;
+}
+
+.bio {
+    text-align: center;
+}

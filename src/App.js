@@ -5,6 +5,8 @@ import './App.css';
 import Main from "./views/Main";
 // import waterImage from "./img/water-rotated.jpg";
 import Projects from "./views/Projects";
+import Resume from "./views/Resume";
+import About from "./views/About";
 
 
 
@@ -15,6 +17,8 @@ function App() {
 
           <Main />
           <Projects />
+          <About />
+          <Resume />
 
         </div>
     </div>

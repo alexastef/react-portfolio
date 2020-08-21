@@ -1,0 +1,18 @@
+/* .viewFour {
+    background-image: url("../../img/water.jpg");
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+} */
+
+.viewFour {
+    background-color: #d4f1f5;
+
+}
+
+#resumeTitle {
+    margin-top: 10vh;
+    margin-bottom: 8vh;
+    padding: 0;
+}
