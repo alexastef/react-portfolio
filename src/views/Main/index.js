@@ -13,7 +13,7 @@ function MainPage() {
             <div className="mobile-image"></div>
           <div className="intro-text alignCenter">
             <h2 className="mobile-title">ALEXA STEF</h2><br></br>
-            <h3 className="intro">Brand Marketer & Web Developer. <br></br>
+            <h3 className="intro">Web Developer.<br></br>
             Bringing brands to life through design and interaction.</h3><br></br><br></br>
             <button type="button" className="readMore btn btn-info" href="#">Read More</button>
 
