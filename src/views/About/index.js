@@ -5,7 +5,7 @@ import "./style.css";
 function About() {
 
     return (
-        <div className="viewThree">
+        <div className="viewThree" id="about">
             <div className="row">
                 <div className="col-md about-left">
                     <img src={MeOnWater} className="about-photo img-fluid" alt="Me"></img>

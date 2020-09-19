@@ -8,11 +8,11 @@
 
 #email-form {
     background-color: #f5f5f5;
-    padding: 50px;
+    padding: 20px;
 }
 
 .formDiv {
-    width: 50vw;
+    width: 50%;
     background-color: #f5f5f5;
     margin: auto;
     padding-bottom: 20px;
@@ -26,4 +26,10 @@
 
 .contact-row {
     margin-top: 10vh;
+}
+
+@media only screen and (max-width: 540px) {
+    .formDiv {
+        width: 80vw;
+    }
 }

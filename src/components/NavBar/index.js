@@ -1,5 +1,6 @@
 import React from "react";
 import "./style.css";
+import { Link } from "react-scroll";
 
 function NavBar() {
   return (
@@ -21,30 +22,59 @@ function NavBar() {
       >
         <ul className="navbar-nav">
           <li className="nav-item navbar-text">
-            <a className="nav-link" href="#">
+            <Link
+              to="projects"
+              className="nav-link"
+              activeClass="active"
+              spy={true}
+              smooth={true}
+            >
               PROJECTS
-            </a>
+            </Link>
           </li>
           <li className="nav-item navbar-text">
-            <a className="nav-link" href="#">
+            <Link
+              to="about"
+              className="nav-link"
+              activeClass="active"
+              spy={true}
+              smooth={true}
+            >
               ABOUT
-            </a>
+            </Link>
           </li>
           <li className=" nav-item">
-          <a className="navbar-brand" href="#">
-            ALEXA STEF
-          </a>
+            <Link
+              to="/"
+              className="navbar-brand"
+              activeClass="active"
+              spy={true}
+              smooth={true}
+            >
+              ALEXA STEF
+            </Link>
           </li>
-
           <li className="nav-item navbar-text">
-            <a className="nav-link" href="#">
+            <Link
+              to="resume"
+              className="nav-link"
+              activeClass="active"
+              spy={true}
+              smooth={true}
+            >
               RESUME
-            </a>
+            </Link>
           </li>
           <li className="nav-item navbar-text">
-            <a className="nav-link" href="#">
+            <Link
+              to="contact"
+              className="nav-link"
+              activeClass="active"
+              spy={true}
+              smooth={true}
+            >
               CONTACT
-            </a>
+            </Link>
           </li>
         </ul>
       </div>
