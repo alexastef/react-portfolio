@@ -8,7 +8,7 @@ function Resume() {
       <div className="viewFour" id="resume">
         <div className="row">
           <div className="col-md">
-            <a href={ResumePDF} target="_blank"><h3 className="viewTitle" id="resumeTitle">RESUME</h3></a>
+            <a href={ResumePDF} target="_blank" className="resLink"><h3 className="viewTitle" id="resumeTitle">RESUME</h3></a>
           </div>
         </div>
       </div>
