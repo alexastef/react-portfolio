@@ -12,7 +12,21 @@ function About() {
                 </div>
                 <div className="col-md">
                     <h3 className="viewTitle" id="aboutTitle">ABOUT</h3>
-                    <p className="bio">Copy what I have from LinkedIn, a little more casual</p>
+                    <p className="bio">I'm an early-career software engineer with a background in branding and sales. I'm eager to blend my branding experience with my web development skills to enhance the way brands and users interact. All about creativity, collaboration, and learning new things.</p>
+                    <p className="bio">Some of the skills I bring to the table:
+                        <ul>
+                            <li>Adobe Creative Suite (special love for Illustrator)</li>
+                            <li>JavaScript</li>
+                            <li>ReactJS</li>
+                            <li>HTML & CSS</li>
+                            <li>Node</li>
+                            <li>Express</li>
+                            <li>SQL</li>
+                            <li>Logo & Web Design</li>
+                            <li>Project Management</li>
+                        </ul>
+                    </p>
+                    <p>I look forward to working with you!</p>
                 </div>
             </div>
         </div>

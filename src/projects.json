@@ -1,40 +1,38 @@
 [
     {
         "title": "Skip to the Loo",
-        "image": "logo.svg",
+        "image": "https://i.imgur.com/ICo97ts.png?1",
         "about": 
-            "Skip the to Loo is a fullstack web app that enables users to find available public restrooms when and where they need them",
-        "technologies": ["Node", "Express", "Handlebars", "MySQL", "Google Cloud"],
-        "repo": "https://github.come/alexastef/loo",
+            "Skip the to Loo is a fullstack web application that helps users to find available public restrooms when and where they need them. Users are able to search for nearby loos without creating an account, but in order to add new loos and review existing ones, an account must be created. The app is currently being converted to a React application.",
+        "technologies": ["Node", "Express", "Handlebars", "MySQL", "Google Cloud - Maps & Places APIs", "Bootstrap", "Adobe Illustrator"],
+        "repo": "https://github.com/alexastef/loo",
         "site": "https://www.skip-to-the-loo.com"
     },
     {
-        "title": "That's the Spirit",
-        "image": "../../logo.svg",
-        "about": 
-            "That's the Spirit is a front-end app that can turn anyone into a mixologist.",
-        "technologies": ["JavaScript", "HTML", "CocktailsDB"],
-        "repo": "https://github.come/alexastef/ThatsTheSpirit",
-        "site": "https://alexastef.github.io/ThatsTheSpirit"
-    },
-    {
         "title": "Goodnight Irene's",
-        "image": "logo.svg",
+        "image": "https://i.imgur.com/gpP7xJM.png",
         "about": 
             "Goodnight Irene's is a popular neighborhood bar where I grew up. Their branding was dated and website non-existent. They wanted to keep their classic roots but appeal to more types of people. Plus, online presence has become even more important during COVID-19. Potential customers need a place to go for hours, updates, and menus. I worked with them to create a logo that is a fresh take on their original branding and a website that can easily be updated by their manager. It was fun to work with a new platform for me. It was also one of the most rewarding projects I've created because it was for a business that I grew up loving.",
         "technologies": ["Wordpress", "MySQL", "Adobe Illustrator", "MySQL"],
         "repo": null,
-        "site": "https://goodnightirenes.wordpress.com"
+        "site": "https://goodnight-irenes.com"
     },
     {
         "title": "Achilles Heel",
-        "image": "logo.svg",
+        "image": "https://i.imgur.com/j65cJDQ.png",
         "about": 
-            "Coming soon!",
-        "technologies": ["Wordpress", "MySQL", "Adobe Illustrator", "MySQL"],
-        "repo": null,
-        "site": "https://goodnightirenes.wordpress.com"
+            "MERN stack application designed to transport users to an Ancient Grecian renaissance of educational games to mitigate stress. This game has something for everyone. Users are prompted to sign up with their Google account and then taken to a distant land where they can choose their arena. Pick your own avatar, earn points, and see where you stack up on the leaderboard. We're in the process of building more levels and adding additional worlds where users can play and learn.",
+        "technologies": ["MongoDB", "ReactJS", "NodeJS", "Express", "Leaflet", "MapBox", "Material UI", "Google Authentication API", "Dicebar API", "ToneJS", "ESlint"],
+        "repo": "https://github.com/erin-smith/achilles-heel",
+        "site": "https://achilles-hell.herokuapp.com"
+    },
+    {
+        "title": "That's the Spirit",
+        "image": ".https://i.imgur.com/YKjHJvl.png",
+        "about": 
+            "That's the Spirit is a front-end app that can turn anyone into a mixologist. Pick your mood or favorite liquor and you're served up with a mouth-watering drink and playlist to set the mood. Designed at the beginning of the COVID-19 pandemic when we couldn't hang with friends or go to a happy hour, so we had to recreate the feeling at home.",
+        "technologies": ["JavaScript", "HTML", "CocktailsDB", "Deezer API"],
+        "repo": "https://github.come/alexastef/ThatsTheSpirit",
+        "site": "https://alexastef.github.io/ThatsTheSpirit"
     }
-
-
 ]
