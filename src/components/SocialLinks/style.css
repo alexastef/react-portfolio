@@ -1,0 +1,13 @@
+.email {
+  margin-top: 4vh;
+  padding: 7px;
+}
+
+.fab {
+  margin: 12px;
+  color: #338aad;
+}
+
+.fab:hover {
+  color: darkslategray;
+}

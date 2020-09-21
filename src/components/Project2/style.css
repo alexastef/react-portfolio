@@ -26,12 +26,44 @@
   border:  #338aad solid 1px;
   border-radius: 0;
   font-family: 'Montserrat', sans-serif;
-  margin-left: 20px;
-  margin-right: 20px;
+  display: block;
+  margin: auto;
+  width: 90%;
 }
 
 .repoBtn:hover,
 .siteBtn:hover {
   color: #338aad;
   background-color: #f5f5f5;
+}
+
+a,
+a:hover {
+  text-decoration: none;
+}
+
+@media (max-width: 540px) {
+  .card {
+    text-align: center;
+  }
+  .card-title,
+  .card-text {
+    margin: 15px 0px 15px 0px;
+  }
+  .techUsed {
+    text-align: center;
+    float: none;
+  }
+  .technologies {
+    margin: 0 auto;
+    padding: 0;
+  }
+  .repoBtn,
+  .siteBtn {
+    margin: 15px;
+  }
+  .logo {
+    padding: 5px;
+    margin-bottom: 10px;
+  }
 }

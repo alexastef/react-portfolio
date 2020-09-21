@@ -13,6 +13,28 @@
     padding-bottom: 2vh;
 }
 
+.bioText {
+    margin-top: 20px;
+    padding-bottom: 30px;
+}
+
 .bio {
     text-align: center;
+    padding: 10px;
+    width: 80%;
+    margin: auto;
+}
+
+.skillHeader {
+    font-weight: bold;
+    margin-top: 12px;
+}
+
+.skillList {
+    margin: 0 auto;
+    padding: 0;
+}
+
+.skill {
+    list-style-type: none;
 }

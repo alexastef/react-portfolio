@@ -1,14 +1,14 @@
 import React from "react";
 import "./style.css";
+import ResumePDF from "../../components/ResumePDF/AStefankiewicz_Resume.pdf";
 
-// this will open a link to my resume when that's finished
 function Resume() {
 
     return (
       <div className="viewFour" id="resume">
         <div className="row">
           <div className="col-md">
-            <h3 className="viewTitle" id="resumeTitle">RESUME</h3>
+            <a href={ResumePDF} target="_blank"><h3 className="viewTitle" id="resumeTitle">RESUME</h3></a>
           </div>
         </div>
       </div>

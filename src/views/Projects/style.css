@@ -13,7 +13,7 @@ html {
     font-family: 'Bebas Neue', sans-serif;
     text-align: center;
     padding-top: 20px;
-    padding-bottom: 15vh;
+    padding-bottom: 7vh;
     font-size: 45px;
     letter-spacing: 8px;
     color: darkslategray;
@@ -21,6 +21,8 @@ html {
 
 .technologies {
     list-style-type: none;
+    margin: auto;
+    padding: 0px;
 }
 
 .techUsed {
@@ -29,6 +31,7 @@ html {
     text-decoration: none;
     float: left;
     padding: 12px;
+    font-weight: bold;
 }
 
 .projectRow {
