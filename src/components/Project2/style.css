@@ -33,8 +33,11 @@
 
 .repoBtn:hover,
 .siteBtn:hover {
-  color: #338aad;
-  background-color: #f5f5f5;
+  /* color: #338aad;
+  background-color: #f5f5f5; */
+  color: #f5f5f5;
+  background-color: #d7a573;
+  border: #d7a573 solid 1px;
 }
 
 a,

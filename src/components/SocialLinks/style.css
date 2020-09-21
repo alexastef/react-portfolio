@@ -9,5 +9,6 @@
 }
 
 .fab:hover {
-  color: darkslategray;
+  /* color: darkslategray; */
+  color: #d7a573;
 }
