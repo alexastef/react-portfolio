@@ -28,7 +28,7 @@
     },
     {
         "title": "That's the Spirit",
-        "image": ".https://i.imgur.com/YKjHJvl.png",
+        "image": "https://i.imgur.com/YKjHJvl.png",
         "about": 
             "That's the Spirit is a front-end app that can turn anyone into a mixologist. Pick your mood or favorite liquor and you're served up with a mouth-watering drink and playlist to set the mood. Designed at the beginning of the COVID-19 pandemic when we couldn't hang with friends or go to a happy hour, so we had to recreate the feeling at home.",
         "technologies": ["JavaScript", "HTML", "CocktailsDB", "Deezer API"],
