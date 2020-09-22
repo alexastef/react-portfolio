@@ -1,7 +1,5 @@
 # React Portfolio
 
-## Description
-
 My personal portfolio built using React and Bootstrap. I'm continually adding projects, modifying content, and updating the look and functionality. 
 
 Please check out my work at www.alexastef.com!
@@ -29,7 +27,7 @@ If you want to pull inspiration from my portfolio design, please email or credit
 * [React.js](https://reactjs.org/)
 * [React-scroll](https://www.npmjs.com/package/react-scroll)
 * [Bootstrap](https://getbootstrap.com/)
-* [https://domains.google/new/?gclid=CjwKCAjwwab7BRBAEiwAapqpTJLbyEwzYBaufkaTkirp9fTru4KJBV7r4KLY5ye9h40ztK2SXRdiAhoC4cIQAvD_BwE](https://developers.google.com/identity/sign-in/web/sign-in)
+* [Google Domain](https://developers.google.com/identity/sign-in/web/sign-in)
 * [Unsplash](https://unsplash.com/)
 * [Adobe PhotoShop](https://www.adobe.com/products/photoshop.html?promoid=PC1PQQ5T&mv=other)
 * And some good old fashioned CSS!
