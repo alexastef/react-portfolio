@@ -36,9 +36,18 @@
     border: 1px solid;
 } */
 
+@media (max-width: 888px) {
+    li.nav-item.navbar-text {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .navbar-brand {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}
 @media (max-width: 767px) { 
     .navbar-brand {
         display: none;
     }
-
 }
