@@ -6,7 +6,7 @@
             "Skip the to Loo is a fullstack web application that helps users to find available public restrooms when and where they need them. Users are able to search for nearby loos without creating an account, but in order to add new loos and review existing ones, an account must be created. The app is currently being converted to a React application.",
         "technologies": ["Node", "Express", "Handlebars", "MySQL", "Google Cloud - Maps & Places APIs", "Bootstrap", "Adobe Illustrator"],
         "repo": "https://github.com/alexastef/loo",
-        "site": "https://www.skip-to-the-loo.com"
+        "site": "https://skip-to-the-loo.com"
     },
     {
         "title": "Goodnight Irene's",
@@ -24,7 +24,7 @@
             "MERN stack application designed to transport users to an Ancient Grecian renaissance of educational games to mitigate stress. This game has something for everyone. Users are prompted to sign up with their Google account and then taken to a distant land where they can choose their arena. Pick your own avatar, earn points, and see where you stack up on the leaderboard. We're in the process of building more levels and adding additional worlds where users can play and learn.",
         "technologies": ["MongoDB", "ReactJS", "NodeJS", "Express", "Leaflet", "MapBox", "Material UI", "Google Authentication API", "Dicebar API", "ToneJS", "ESlint"],
         "repo": "https://github.com/erin-smith/achilles-heel",
-        "site": "https://achilles-hell.herokuapp.com"
+        "site": "https://achilles-heel.herokuapp.com"
     },
     {
         "title": "That's the Spirit",
