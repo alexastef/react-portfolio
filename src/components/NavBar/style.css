@@ -25,8 +25,17 @@
     font-family: 'Bebas Neue', sans-serif;
 }
 
-.navbar-toggler-icon {
+.fa-bars {
     color: #203242;
+}
+
+button.navbar-toggler {
+    border-style: hidden;
+}
+
+button.navbar-toggler:active,
+button.navbar-toggler:visited {
+    border-style: hidden;
 }
 
 
