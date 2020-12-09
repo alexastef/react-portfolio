@@ -9,13 +9,13 @@
         "site": "https://skip-to-the-loo.com"
     },
     {
-        "title": "Evolve With Anna",
-        "image": "https://i.imgur.com/zXsKBiG.png",
+        "title": "Goodnight Irene's",
+        "image": "https://i.imgur.com/gpP7xJM.png",
         "about": 
-            "Evolve With Anna is a project for a dear friend of mine who was diagnosed with rare bone cancer Ewing Sarcoma in fall of 2020. As a way to raise funds for her treatment and create a strong sense of community behind her, I put together a t-shirt campaign. The big donation sites and quick services take a good bit of money out of each donation, so to maximize the money raised, I built the site using React and Stripe's API. Vuori generously donated the shirts, I created the logo and designed the website, and we raised over $4,000. This was a 2-week campaign, so if you're reading this after December 2020, the payment functionality is no longer working.",
-        "technologies": ["ReactJS", "Stripe API", "Node", "Express", "MongoDB", "Adobe Illustrator"],
-        "repo": "https://github.com/alexastef/evolvewithanna",
-        "site": "https://www.evolvewithanna.com"
+            "Goodnight Irene's is a popular neighborhood bar where I grew up. Their branding was dated and website non-existent. They wanted to keep their classic roots but appeal to more types of people. Plus, online presence has become even more important during COVID-19. Potential customers need a place to go for hours, updates, and menus. I worked with them to create a logo that is a fresh take on their original branding and a website that can easily be updated by their manager. It was fun to work with a new platform for me. It was also one of the most rewarding projects I've created because it was for a business that I grew up loving.",
+        "technologies": ["Wordpress", "MySQL", "Adobe Illustrator", "MySQL"],
+        "repo": null,
+        "site": "https://goodnight-irenes.com"
     },
     {
         "title": "Achilles Heel",
@@ -25,5 +25,14 @@
         "technologies": ["MongoDB", "ReactJS", "NodeJS", "Express", "Leaflet", "MapBox", "Material UI", "Google Authentication API", "Dicebar API", "ToneJS", "ESlint"],
         "repo": "https://github.com/erin-smith/achilles-heel",
         "site": "https://achilles-heel.herokuapp.com"
+    },
+    {
+        "title": "That's the Spirit",
+        "image": "https://i.imgur.com/YKjHJvl.png",
+        "about": 
+            "That's the Spirit is a front-end app that can turn anyone into a mixologist. Pick your mood or favorite liquor and you're served up with a mouth-watering drink and playlist to set the mood. Designed at the beginning of the COVID-19 pandemic when we couldn't hang with friends or go to a happy hour, so we had to recreate the feeling at home.",
+        "technologies": ["JavaScript", "HTML", "CocktailsDB", "Deezer API"],
+        "repo": "https://github.come/alexastef/ThatsTheSpirit",
+        "site": "https://alexastef.github.io/ThatsTheSpirit"
     }
 ]
