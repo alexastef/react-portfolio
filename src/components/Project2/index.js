@@ -14,7 +14,7 @@ function Project2() {
           <div className="col-sm text-center">
             <a className="repoLink" href={project.repo} target="_blank">
               <button type="button" className="btn btn-info repoBtn">
-                Repo
+                Code
               </button>
             </a>
           </div>

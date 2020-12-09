@@ -38,12 +38,10 @@ button.navbar-toggler:visited {
     border-style: hidden;
 }
 
+.navbar-toggler {
+    margin-top: 10px;
+}
 
-/* .navbar-toggler {
-    color: #203242;
-    background-color: transparent;
-    border: 1px solid;
-} */
 
 @media (max-width: 888px) {
     li.nav-item.navbar-text {
